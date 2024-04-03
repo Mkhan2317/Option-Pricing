@@ -1,4 +1,5 @@
 # Option-Pricing
-This repository stores the code related to option pricing. \n
+This repository stores the code related to option pricing. 
+<br>
 Author- Amir khan
 
